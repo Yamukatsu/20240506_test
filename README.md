@@ -1,15 +1,6 @@
-A very simple HTML5 version of Tetris, for educational purposes, made in 45 minutes.
+このリポジトリは https://github.com/dionyziz/canvas-tetris がオリジナルです。
 
-Watch the making-of timelapse:
-http://www.youtube.com/watch?v=GQTZ_TPxJhM
-
-Play:
-https://dionyziz.com/graphics/canvas-tetris/
-
-Or you can [play it here](https://plugins.quadnix.com/launch?author=quadnix&id=canvas-tetris),
-powered by [Quadnix Plugins](https://plugins.quadnix.com).
-
-License
+オリジナルのソースコードのLicense
 =======
 This version of tetris is MIT licensed:
 
