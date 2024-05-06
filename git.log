@@ -1,0 +1,48 @@
+commit 6b5ceb299f87456a7ea2a61a02917e448dbb879c
+Merge: 6ea86e9 9a43519
+Author: Yamukatsu <231205160@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:59:11 2024 +0900
+
+    Merge branch 'main' of https://github.com/Yamukatsu/20240506_test
+
+commit 6ea86e964c05e2fb705a26fcd101b4515705e40d
+Author: Yamukatsu <231205160@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:55:50 2024 +0900
+
+    change piece colar
+
+commit 9a435196d73229f41067e10f578b2a49a66b3d75
+Author: Yamukatsu <147133839+Yamukatsu@users.noreply.github.com>
+Date:   Mon May 6 15:54:42 2024 +0900
+
+    Update tetris.js
+
+commit 745f090baac3f9b09dc4b48438183a4c320eb324
+Author: Yamukatsu <231205160@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:47:40 2024 +0900
+
+    Change DropSpeed
+
+commit d835e3344a809c2e1b135fe1f5bf861328dde043
+Author: Yamukatsu <231205160@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:44:23 2024 +0900
+
+    change speed
+
+commit 11ff0f50a4c11aba53c5709c263c36ad45152840
+Author: Yamukatsu <231205160@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:36:45 2024 +0900
+
+    update　tetris.js
+
+commit 1c354fd2b6a57babd8b00b703e2b37d7ffde5f12
+Author: Yamukatsu <231205160@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:30:56 2024 +0900
+
+    追加
+
+commit a9a752bc63ad7cceb3d37e93a6722c5fb30e478f
+Author: Yamukatsu <231205160@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:19:40 2024 +0900
+
+    ソースコードをインポート
